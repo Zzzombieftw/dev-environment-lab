@@ -1,0 +1,27 @@
+
+
+
+body {
+    background-color: rgb(33, 78, 161);
+    border: brown, solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+#swaqire {
+    background-color: darkcyan;
+    width: 60px;
+    height: 45px;
+    margin:  5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: darkgreen;
+}
+.grow {
+    flex-grow: 37;
+}
